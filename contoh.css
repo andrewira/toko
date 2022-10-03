@@ -1,0 +1,62 @@
+nav{
+    height: 100%;
+    width: 100%;
+    background: hsla(60, 100%, 100%, 0.91);
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+.cari{
+    background-color: grey;
+    color: black;
+}
+
+.masuk{
+    background-color: #14f618;
+    color: black;
+}
+.daftar{
+    background-color: #14f618;
+    color: black;
+}
+.gambar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    
+}
+.container text-center{
+    display: inline;
+    display: flex;
+    text-decoration-line: inline;
+   
+}
+div{
+    font-size: 25px;
+}
+.BELI{
+    color: black;
+    background-color: aqua;
+}
+.carousel-inner{
+    position: relative;
+    width: 80%;
+    overflow: hidden;
+    margin: auto;
+    border-radius: 30px;
+}
+.col{
+    padding: 20px;
+}
+.tutup{
+    text-align: center;
+    background-color: grey;
+}
+
+
+    
+
